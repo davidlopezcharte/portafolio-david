@@ -6,7 +6,8 @@ const slidesInfo = [
     img: 'https://i.ibb.co/SstHzxB/NetflixP.jpg',
     alt: 'Project 1',
     desc: 'Netflix-Clon',
-    src: 'https://github.com/davidlopezcharte/Netflix-app',
+    srcGit: 'https://github.com/davidlopezcharte/Netflix-app',
+    srcWeb: 'https://netflix-app-one.vercel.app/profile',
     id: 1,
   },
   {
@@ -29,12 +30,12 @@ const slides = slidesInfo.map((slide) => (
     <br />
     <img src={slide.img} alt={slide.alt} />
     <div className="slide-desc">
-      <a href={slide.src} target="_blank" rel="noreferrer">
+      <a href={slide.srcGit} target="_blank" rel="noreferrer">
         <span className="fab fa-github  git">
           <p className="slide-paragraph"> Code</p>
         </span>
       </a>
-      <a href={slide.src} target="_blank" rel="noreferrer">
+      <a href={slide.srcWeb} target="_blank" rel="noreferrer">
         <span className="fas fa-desktop visit">
           <p className="slide-paragraph"> Visit</p>
         </span>
