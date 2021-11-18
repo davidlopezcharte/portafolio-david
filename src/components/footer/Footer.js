@@ -15,7 +15,7 @@ export const Footer = () => (
     </div>
     <div className="footer-sns">
       <div className="sns-links">
-        <a href="www.linkedin.com/in/david-lopez-charte" target="_blank" rel="noreferrer">
+        <a href="https://linkedin.com/in/david-lopez-charte" target="_blank" rel="noreferrer">
           <i className="fab fa-linkedin linkedin"></i>
         </a>
         <a href="https://github.com/davidlopezcharte" target="_blank" rel="noreferrer">
