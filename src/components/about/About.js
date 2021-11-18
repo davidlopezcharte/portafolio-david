@@ -17,13 +17,13 @@ const About = () => (
       <h3>Tecnologías </h3>
       <p>
         Me he especializado en el área front-end, utilizando tecnologías que van desde HTML
-        (estructura), pasando por CSS, Boostrap y SASS (diseño), hasta usar JavaScript como lenguaje
-        de programación y ReactJs como librería.
+        (estructura), pasando por CSS, Boostrap, SASS y TailwindCss (diseño), hasta usar JavaScript
+        como lenguaje de programación, ReactJs como librería y NextJs como framework de ReactJs.
       </p>
       <h3>Proyectos </h3>
       <p>
         En mis proyectos con ReactJs, he utilizado las últimas tecnologías como son: React Hooks,
-        Redux, Firebase, Rutas (React Router), Stripe y más..
+        Redux, Firebase, Rutas (React Router), Stripe y más...
       </p>
     </div>
     <div className="about-img ">
