@@ -8,10 +8,8 @@ const About = () => (
     <div className="about-desc">
       <h3>Te cuento sobre mi</h3>
       <p>
-        Soy un desarrollador web con experiencia en contabilidad y negocios. Gracias a mis
-        experiencias pasadas, he obtenido diferentes habilidades como: metodología en el trabajo,
-        orden, creatividad, razonamiento lógico, toma de decisiones y trabajo en equipo, las cuales
-        me han servido indiscutiblemente como desarrollador web.
+        Soy un desarrollador web, con excelentes habilidades sociales y de trabajo en equipo,
+        especializado en desarrollo frontend para aplicaciones web, enfocadas en React.
       </p>
       <br />
       <h3>Tecnologías </h3>

@@ -10,8 +10,8 @@ const NavBar = ({ isScrolling }) => {
       id: 1,
     },
     {
-      name: 'Proyets',
-      url: '#proyets',
+      name: 'Projects',
+      url: '#projects',
       className: 'nav-link',
       id: 2,
     },
